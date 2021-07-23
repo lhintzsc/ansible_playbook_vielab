@@ -2,6 +2,5 @@
   hosts: ubuntu
   tags: setup_ubuntu
   become: yes
-  become_user: root
   roles:
   - ubuntu server
