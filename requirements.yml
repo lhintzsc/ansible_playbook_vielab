@@ -1,0 +1,4 @@
+roles:
+  - name: ubuntu server
+    src: https://github.com/lhintzsc/ansible_role_ubuntu
+    version: main
